@@ -212,7 +212,7 @@ Recommendations for **Olivia Rodrigo – good4u** (full file: [`spotify_recommen
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/soumya0006)
 
 - 💼 LinkedIn: [linkedin.com/in/soumya-ranjan-das-660a1140b](https://www.linkedin.com/in/soumya-ranjan-das-660a1140b/)
-- 📧 Email: [your.email@example.com](mailto:sd5916111@gmail.com)
+- 📧 Email: [sd5916111@gmail.com](mailto:sd5916111@gmail.com)
 - 🌐 Portfolio: [soumya0006.github.io](https://soumya0006.github.io/)
 
 ---
