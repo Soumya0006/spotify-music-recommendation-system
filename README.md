@@ -9,7 +9,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-[**Notebook**](Spotify_Music_Recommendation_System.ipynb) · [**App Source**](Spotify-Music-Recommendation-System.py) · [**Report a Bug**](https://github.com/soumya0006/Spotify-Music-Recommendation-System/issues)
+[**Notebook**](Spotify%20Music%20Recommendation%20System.ipynb) · [**App Source**](Spotify-Music-Recommendation-System.py) · [**Report a Bug**](https://github.com/soumya0006/Spotify-Music-Recommendation-System/issues)
 
 </div>
 
@@ -100,7 +100,7 @@ Click any file name to open it directly on GitHub.
 
 📦 **Spotify-Music-Recommendation-System**
 - 🐍 [`Spotify-Music-Recommendation-System.py`](Spotify-Music-Recommendation-System.py) &nbsp;→&nbsp; *Streamlit web app*
-- 📓 [`Spotify_Music_Recommendation_System.ipynb`](Spotify_Music_Recommendation_System.ipynb) &nbsp;→&nbsp; *Jupyter notebook (EDA, TF-IDF, similarity)*
+- 📓 [`Spotify Music Recommendation System.ipynb`](Spotify%20Music%20Recommendation%20System.ipynb) &nbsp;→&nbsp; *Jupyter notebook (EDA, TF-IDF, similarity)*
 - 🧠 [`spotify_recommender.pkl`](spotify_recommender.pkl) &nbsp;→&nbsp; *Saved model (data + TF-IDF + similarity matrix)*
 - 📊 [`spotify_recommendations.csv`](spotify_recommendations.csv) &nbsp;→&nbsp; *Sample recommendation output*
 - 📋 [`requirements.txt`](requirements.txt) &nbsp;→&nbsp; *Python dependencies*
@@ -109,7 +109,7 @@ Click any file name to open it directly on GitHub.
 | File | Description |
 |---|---|
 | [`Spotify-Music-Recommendation-System.py`](Spotify-Music-Recommendation-System.py) | Streamlit web application (UI, validation, recommendation logic) |
-| [`Spotify_Music_Recommendation_System.ipynb`](Spotify_Music_Recommendation_System.ipynb) | End-to-end notebook: EDA, preprocessing, TF-IDF, similarity, model export |
+| [`Spotify Music Recommendation System.ipynb`](Spotify%20Music%20Recommendation%20System.ipynb) | End-to-end notebook: EDA, preprocessing, TF-IDF, similarity, model export |
 | [`spotify_recommender.pkl`](spotify_recommender.pkl) | Saved artefacts: cleaned data, TF-IDF vectorizer, TF-IDF matrix, similarity matrix |
 | [`spotify_recommendations.csv`](spotify_recommendations.csv) | Example CSV exported from the app |
 | [`requirements.txt`](requirements.txt) | Python dependencies |
@@ -149,7 +149,7 @@ The app opens at `http://localhost:8501`.
 ### Re-train the model (optional)
 
 1. Place your Spotify dataset (`spotify_dataset.csv`) in the project folder and update the path in the notebook's first data-loading cell.
-2. Open [`Spotify_Music_Recommendation_System.ipynb`](Spotify_Music_Recommendation_System.ipynb) in Jupyter.
+2. Open [`Spotify Music Recommendation System.ipynb`](Spotify%20Music%20Recommendation%20System.ipynb) in Jupyter.
 3. Run all cells. This regenerates `spotify_recommender.pkl`.
 
 > **Note:** the pickle was created with scikit-learn `1.7.2`, which is pinned in [`requirements.txt`](requirements.txt) to avoid version-mismatch warnings.
@@ -212,7 +212,7 @@ Recommendations for **Olivia Rodrigo – good4u** (full file: [`spotify_recommen
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/soumya0006)
 
 - 💼 LinkedIn: [linkedin.com/in/soumya-ranjan-das-660a1140b](https://www.linkedin.com/in/soumya-ranjan-das-660a1140b/)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [your.email@example.com](mailto:sd5916111@gmail.com)
 - 🌐 Portfolio: [soumya0006.github.io](https://soumya0006.github.io/)
 
 ---
